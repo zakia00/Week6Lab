@@ -1,8 +1,7 @@
 # Week6Lab
-# Week6Lab
-# Cybersecurity Week5Lab - Zakia 
+# Cybersecurity Week6Lab - Zakia 
 
-Time spent: 4 hours spent in total 
+Time spent: 5 hours spent in total 
 
 ## User Stories
 
